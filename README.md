@@ -10,3 +10,7 @@ enlace al documento fuente
 
 
 https://docs.google.com/spreadsheets/d/1ZWc17gWlkko3BGZjXdPj3N2AOUHQxNX-wUxYp_gQcKM/edit#gid=0
+
+documento compilado por Masaya Llavaneras Blanco
+
+cuenta twitter @Masayalb
